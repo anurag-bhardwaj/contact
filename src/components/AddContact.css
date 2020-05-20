@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#mainContainer
+{
+    width: 100%;
+    /* background-color: ; */
+    padding: 1%;
+    border-radius: 10px;
+    border: 1px solid #989898;
+    margin-bottom: 4%;
+    width: 98%;
+}
+
+.HeadingCon
+{
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+    font-size: x-large;
+    border-bottom: 1px solid #989898;
+}
+
+.card
+{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    width: 100%;
+}
+
+.formchild
+{
+    margin: 0 20%;
+    font-size: larger;
+    font-weight: 900;
+    /* margin: auto; */
+    color: darkslategrey;
+
+}
+
+.formchild input
+{
+    width: 98%;
+    height: 3vh;
+    border-radius: 5px;
+    padding: 5px;
+    border: 1px solid #989898;
+}
+
+.subB input
+{
+    width: 100%;
+    /* padding-right: px; */
+    height: 6vh;
+}
+.wrong input
+{
+    border: 2px solid red;
+}
